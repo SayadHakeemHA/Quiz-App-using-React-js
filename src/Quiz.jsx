@@ -64,7 +64,7 @@ if(para===true) setScore(score+1)
 }
 
   return (
-    <div className='ss'>
+    <div className='sss'>
     {
         showScore ?
 
